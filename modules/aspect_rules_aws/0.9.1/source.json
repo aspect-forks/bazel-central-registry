@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-AZeJpokRtLHSFbVfNGMJljBzSXmog8nPJGOt4Dt+BEE=",
+    "strip_prefix": "rules_aws-0.9.1",
+    "url": "https://github.com/aspect-build/rules_aws/releases/download/v0.9.1/rules_aws-v0.9.1.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-vadQ88CntTAyV0LXok/Gjv2D91x7ePWXOjwPq5FFYYw="
+    },
+    "patch_strip": 1
+}

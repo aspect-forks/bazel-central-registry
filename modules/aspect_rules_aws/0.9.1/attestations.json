@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/aspect-build/rules_aws/releases/download/v0.9.1/source.json.intoto.jsonl",
+            "integrity": "sha256-6c55iuBhnuRh8jrAV76SdPy56LOdfHheraUhaoDdULE="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/aspect-build/rules_aws/releases/download/v0.9.1/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-X0yuD7JDOx18kklFgaX2FivFRJf2ReJ43DcRhJJtVoU="
+        },
+        "rules_aws-v0.9.1.tar.gz": {
+            "url": "https://github.com/aspect-build/rules_aws/releases/download/v0.9.1/rules_aws-v0.9.1.tar.gz.intoto.jsonl",
+            "integrity": "sha256-9rXpgp6K9tBIrFaH5rj11//vyxy5ZrxSuscmKyU7PKo="
+        }
+    }
+}
